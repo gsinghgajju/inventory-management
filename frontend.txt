@@ -1,0 +1,1 @@
+install nginx fot the frontend
